@@ -1,0 +1,17 @@
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\bin\Debug\net6.0-windows\VeriYapilariOdev.exe
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\bin\Debug\net6.0-windows\VeriYapilariOdev.deps.json
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\bin\Debug\net6.0-windows\VeriYapilariOdev.runtimeconfig.json
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\bin\Debug\net6.0-windows\VeriYapilariOdev.dll
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\bin\Debug\net6.0-windows\VeriYapilariOdev.pdb
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.csproj.AssemblyReference.cache
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.Form1.resources
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.csproj.GenerateResource.cache
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.AssemblyInfoInputs.cache
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.AssemblyInfo.cs
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.csproj.CoreCompileInputs.cache
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.dll
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\refint\VeriYapilariOdev.dll
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.pdb
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\VeriYapilariOdev.genruntimeconfig.cache
+C:\Users\se_vv\source\repos\VeriYapilariOdev\VeriYapilariOdev\obj\Debug\net6.0-windows\ref\VeriYapilariOdev.dll
